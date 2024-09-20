@@ -1,7 +1,0 @@
-package com.ssafy.servlet;
-
-import jakarta.servlet.http.HttpServlet;
-
-public class MyServlet3 extends HttpServlet{
-
-}
