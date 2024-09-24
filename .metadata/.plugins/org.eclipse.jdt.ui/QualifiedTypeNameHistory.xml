@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="jakarta.servlet.Servlet"/>
     <fullyQualifiedTypeName name="jakarta.servlet.GenericServlet"/>
     <fullyQualifiedTypeName name="jakarta.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.http.Cookie"/>
 </qualifiedTypeNameHistroy>
